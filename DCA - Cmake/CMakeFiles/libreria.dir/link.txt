@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibreria.a  CMakeFiles/libreria.dir/Calculator.cpp.o
+/usr/bin/ranlib liblibreria.a

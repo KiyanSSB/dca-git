@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriel/Escritorio/dca/DCA - Cmake/Calculator.h
+
+/home/gabriel/Escritorio/dca/DCA - Cmake/runner.cpp
+cxxtest/TestListener.h
+-
+cxxtest/TestTracker.h
+-
+cxxtest/TestRunner.h
+-
+cxxtest/RealDescriptions.h
+-
+cxxtest/TestMain.h
+-
+cxxtest/ErrorPrinter.h
+-
+testsTestSuite.h
+/home/gabriel/Escritorio/dca/DCA - Cmake/testsTestSuite.h
+cxxtest/Root.cpp
+-
+
+/home/gabriel/Escritorio/dca/DCA - Cmake/testsTestSuite.h
+cxxtest/TestSuite.h
+-
+Calculator.h
+/home/gabriel/Escritorio/dca/DCA - Cmake/Calculator.h
+

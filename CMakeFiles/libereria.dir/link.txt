@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibereria.a  CMakeFiles/libereria.dir/Calculator.cpp.o
+/usr/bin/ranlib liblibereria.a

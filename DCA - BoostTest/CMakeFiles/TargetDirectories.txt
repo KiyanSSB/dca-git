@@ -1,0 +1,8 @@
+/home/gabriel/Escritorio/dca/DCA - BoostTest/CMakeFiles/package_source.dir
+/home/gabriel/Escritorio/dca/DCA - BoostTest/CMakeFiles/rebuild_cache.dir
+/home/gabriel/Escritorio/dca/DCA - BoostTest/CMakeFiles/package.dir
+/home/gabriel/Escritorio/dca/DCA - BoostTest/CMakeFiles/libreria.dir
+/home/gabriel/Escritorio/dca/DCA - BoostTest/CMakeFiles/edit_cache.dir
+/home/gabriel/Escritorio/dca/DCA - BoostTest/CMakeFiles/test.dir
+/home/gabriel/Escritorio/dca/DCA - BoostTest/CMakeFiles/dist.dir
+/home/gabriel/Escritorio/dca/DCA - BoostTest/CMakeFiles/Calc.dir

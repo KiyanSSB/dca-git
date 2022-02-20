@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test.dir/testsTestSuite.cpp.o  -o test  /usr/lib/x86_64-linux-gnu/libboost_unit_test_framework.so.1.71.0 liblibreria.a 

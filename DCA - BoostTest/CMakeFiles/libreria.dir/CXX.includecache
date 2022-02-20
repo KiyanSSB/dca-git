@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriel/Escritorio/dca/DCA - BoostTest/Calculator.cpp
+Calculator.h
+/home/gabriel/Escritorio/dca/DCA - BoostTest/Calculator.h
+
+/home/gabriel/Escritorio/dca/DCA - BoostTest/Calculator.h
+

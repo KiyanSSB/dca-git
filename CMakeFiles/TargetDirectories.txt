@@ -1,0 +1,9 @@
+/home/gabriel/Escritorio/dca/CMakeFiles/package_source.dir
+/home/gabriel/Escritorio/dca/CMakeFiles/rebuild_cache.dir
+/home/gabriel/Escritorio/dca/CMakeFiles/package.dir
+/home/gabriel/Escritorio/dca/CMakeFiles/libreria.dir
+/home/gabriel/Escritorio/dca/CMakeFiles/edit_cache.dir
+/home/gabriel/Escritorio/dca/CMakeFiles/test.dir
+/home/gabriel/Escritorio/dca/CMakeFiles/runner.dir
+/home/gabriel/Escritorio/dca/CMakeFiles/dist.dir
+/home/gabriel/Escritorio/dca/CMakeFiles/Calc.dir

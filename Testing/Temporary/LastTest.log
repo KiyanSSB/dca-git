@@ -1,0 +1,19 @@
+Start testing: Dec 01 18:37 CET
+----------------------------------------------------------
+1/1 Testing: runner
+1/1 Test: runner
+Command: "/home/gabriel/Escritorio/dca/runner"
+Directory: /home/gabriel/Escritorio/dca
+"runner" start time: Dec 01 18:37 CET
+Output:
+----------------------------------------------------------
+Running cxxtest tests (1 test).OK!
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"runner" end time: Dec 01 18:37 CET
+"runner" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 01 18:37 CET
